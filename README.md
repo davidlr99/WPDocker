@@ -7,3 +7,4 @@ Usage:
 ```
 ruby create_docker_wordpress.rb
 ```
+ You will be asked for further installation parameters during the execution of the Ruby script
